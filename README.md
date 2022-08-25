@@ -1,18 +1,17 @@
 # My-project
 
 ### Compiles and hot-reloads for development
-```
+
 npm run serve
-```
+
 
 ### Compiles and minifies for production
-```
+
 npm run build
-```
+
 
 ### Описание
 
-:white_check_mark:
 :white_check_mark: Для реализации данного проекта использовался фреймворк Vue3    
 :white_check_mark: В качестве источника данных использовался API с сайта https://reqres.in/    
 :white_check_mark: При запуске проекта добавлен popup с формой авторизации (логин и пароль: admin)    
